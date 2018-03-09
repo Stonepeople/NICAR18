@@ -1,2 +1,3 @@
-# NICAR18
-Exercise during Github session, Friday pm
+### NICAR18
+###Exercise during Github session, Friday pm
+#learning about branches
